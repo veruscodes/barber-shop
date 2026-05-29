@@ -1,32 +1,32 @@
 # Barber Premium System
 
-Microsite premium para uma barbearia moderna, com visual dark editorial, navegacao multipagina e foco em experiencia, fidelizacao e contato rapido.
+Microsite premium para uma barbearia moderna, com visual dark editorial, navegação multipágina e foco em experiência, fidelização e contato rápido.
 
-![Preview da homepage](assets/images/preview-homepage.png)
+![Prévia real da home](assets/images/preview-homepage-real.png)
 
 ## Sobre
 
-Este projeto representa a camada publica de uma barbearia premium.
+Este projeto representa a camada pública de uma barbearia premium.
 
 Ele foi pensado para transmitir:
 
 - identidade visual forte
-- navegacao fluida entre paginas
-- apresentacao elegante dos modulos principais
-- area de login demonstrativa
-- pagina de fidelidade
+- navegação fluida entre páginas
+- apresentação elegante dos módulos principais
+- área de login demonstrativa
+- página de fidelidade
 - contato direto por WhatsApp
 
-## Preview das paginas
+## Páginas
 
-| Pagina | Descricao |
+| Página | Descrição |
 | --- | --- |
-| `index.html` | Home com hero, modulos e jornada principal |
-| `modules.html` | Visao geral dos recursos e areas do sistema |
-| `login.html` | Tela publica de acesso do cliente |
+| `index.html` | Home com hero, módulos e jornada principal |
+| `modules.html` | Visão geral dos recursos e áreas do sistema |
+| `login.html` | Tela de acesso do cliente |
 | `fidelidade.html` | Programa de fidelidade com progresso visual |
-| `studio.html` | Direcao visual e atmosfera da marca |
-| `contact.html` | Contato, horarios e atendimento |
+| `studio.html` | Direção visual e atmosfera da marca |
+| `contact.html` | Contato, horários e atendimento |
 
 ## Estrutura
 
@@ -40,7 +40,7 @@ barber-premium-public/
 │     ├─ brands-shelf.png
 │     ├─ clients-portraits.png
 │     ├─ hero-barbershop.png
-│     ├─ preview-homepage.png
+│     ├─ preview-homepage-real.png
 │     ├─ products-premium.png
 │     └─ service-beard-trim.png
 ├─ index.html
@@ -57,36 +57,36 @@ barber-premium-public/
 - HTML5
 - CSS3
 - layout responsivo
-- estrutura estatica pronta para deploy
+- estrutura estática pronta para deploy
 
-## Publicacao
+## Publicação
 
 Este projeto pode ser publicado facilmente em:
 
 - GitHub Pages
 - Vercel
 - Netlify
-- qualquer hospedagem estatica
+- qualquer hospedagem estática
 
 Para rodar localmente, basta abrir `index.html` no navegador.
 
-## Personalizacao
+## Personalização
 
-Antes de publicar em producao, vale ajustar:
+Antes de publicar em produção, vale ajustar:
 
-- numero do WhatsApp nos links `wa.me`
-- endereco e horarios em `contact.html`
+- número do WhatsApp nos links `wa.me`
+- endereço e horários em `contact.html`
 - nome da marca
 - textos institucionais
-- servicos, beneficios e imagens
+- serviços, benefícios e imagens
 
-## Quer uma versao personalizada?
+## Quer uma versão personalizada?
 
-Se quiser uma versao sob medida, com novas paginas, integracoes ou fluxo mais completo, entre em contato:
+Se quiser uma versão sob medida, com novas páginas, integrações ou fluxo mais completo, entre em contato:
 
 - WhatsApp: `https://wa.me/SEU_NUMERO`
 - E-mail: `seuemail@dominio.com`
 
-## Licenca
+## Licença
 
-Uso livre para portfolio e apresentacao comercial.
+Uso livre para portfólio e apresentação comercial.
