@@ -84,8 +84,8 @@ Antes de publicar em produção, vale ajustar:
 
 Se quiser uma versão sob medida, com novas páginas, integrações ou fluxo mais completo, entre em contato:
 
-- WhatsApp: `https://wa.me/SEU_NUMERO`
-- E-mail: `seuemail@dominio.com`
+- WhatsApp: `[https://wa.me/SEU_NUMERO](https://api.whatsapp.com/send?phone=5577991444100&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar.)`
+- E-mail: `codeverus@gmail.com`
 
 ## Licença
 
